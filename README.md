@@ -46,6 +46,12 @@ procedures and terms of the Institute for Health Metrics and Evaluation.
 ## Citation
 
 Please cite the archived Zenodo release corresponding to the version used.
+## Archived version used in the manuscript
+
+The analysis code corresponding to the manuscript is archived as
+version 1.0.0 in Zenodo:
+
+https://doi.org/10.5281/zenodo.21482918
 
 ## Contact
 
