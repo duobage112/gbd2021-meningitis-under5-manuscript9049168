@@ -1,4 +1,5 @@
 # GBD 2021 Under-5 Meningitis Analysis
+[![DOI](https://zenodo.org/badge/1304944025.svg)](https://doi.org/10.5281/zenodo.21482917)
 
 ## Overview
 
