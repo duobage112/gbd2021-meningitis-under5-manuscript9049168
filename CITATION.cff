@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite the archived software release."
+title: "Replication code for the global, regional, and national analysis of meningitis burden among children younger than 5 years"
+version: 1.0.0
+type: software
+license: MIT
+abstract: >
+  This repository contains the R analysis code supporting the manuscript
+  “Global, Regional, and National Trends and Inequalities in Meningitis
+  Burden Among Children Younger Than 5 Years, 1990–2021, With Projections
+  to 2045: A Population-Based Modelling Study Using GBD 2021.”
+  The code covers temporal trend analyses, age-specific and
+  pathogen-specific analyses, health-inequality and frontier analyses,
+  Bayesian age-period-cohort projections, internal validation, and the
+  generation of manuscript figures and tables.
+authors:
+  - family-names: "Ren"
+    given-names: "Shihao"
+    email: "18454712960@163.com"
+    orcid: "https://orcid.org/0009-0004-1665-8365"
+keywords:
+  - meningitis
+  - children younger than 5 years
+  - Global Burden of Disease Study 2021
+  - health inequality
+  - Joinpoint regression
+  - Bayesian age-period-cohort model
+  - reproducible research
